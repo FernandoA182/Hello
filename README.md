@@ -12,3 +12,6 @@ Fernando es un excelente compañero y se puede teletransportar como Goku tambié
 Maestría en Ciencia de Datos de Posgrados CUCEA de la Universidad de Guadalajara.  
 
 ![](https://raw.githubusercontent.com/vcuspinera/UDG_MCD_Project_Dev_I/main/actividades/img/MCD_logo.png)
+
+Estamos añadiendo esta línea desde GITHUB
+
